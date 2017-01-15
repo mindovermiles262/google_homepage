@@ -1,0 +1,28 @@
+* {
+  border: 1px solid blue;
+}
+
+body {
+  background-color: white;
+}
+.header {
+  position: absolute;
+  vertical-align: middle;
+  width: 98.5%;
+  height: 100px;
+  float: right;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.header li {
+  display: inline;
+  float: right;
+  margin: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+.header li:hover {
+  text-decoration: underline;
+}
