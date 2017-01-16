@@ -1,2 +1,5 @@
 #The Google Homepage
-This project is designed to test HTML and CSS skills.  The purpose of this project is to copy the homepage of www.google.com but I changed it to reflect a github search engine. Knowledge of HTML and CSS is important for proper layout and functionality.
+The purpose of this project is to copy the markup of www.google.com utilizing newfound HTML and CSS skills.  Tricky bits include aligning buttons in a row, floating elements, and attaching footers.  My web design is a mashup of google and GitHub, where I present a fictional github search homepage.
+
+##TODO:
+>Add search functionality to "GitHub Search" and "I'm Feeling Lucky" 

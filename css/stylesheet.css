@@ -96,17 +96,30 @@ a {
 /* Footer*/
 
 .footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  height: 50px;
+  width: 100%;
   font-family: Arial, sans-serif;
   font-size: 13px;
   width: 100%;
+  background-color: #F2F2F2;
+  opacity: 0.85;
+  border: 1px solid #E4E4E4
 }
 .foot_left {
+  margin-top: 18px;
   display: inline-block;
   float: left;
   padding-left: 30px;
 }
 .foot_right {
+  margin-top: 18px;
   display: inline-block;
   float: right;
   padding-right: 30px;
+}
+.foot_right:hover, .foot_left:hover {
+  text-decoration: underline;
 }
